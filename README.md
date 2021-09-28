@@ -3,7 +3,7 @@ Population Genetics Simulator
 
 Install requirements.txt
 
-###Life Simulator
+### Life Simulator
 
 python3 life5.py
 
